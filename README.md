@@ -4,7 +4,7 @@
 
 ## リポジトリ構成
 
-- `ABC/`: AtCoder Beginners Contestの問題と解答をまとめたディレクトリ
+- `ABC`: AtCoder Beginners Contestの問題と解答をまとめたディレクトリ
 - `ABS`: AtCoder Beginners Selectionの解答をまとめたディレクトリ
 - `ALPC`: AtCoder Library Practice Contestの解答をまとめたディレクトリ
 - `APG4b`: C++入門 AtCoder Programming Guide for beginners (APG4b)の解答をまとめたディレクトリ
